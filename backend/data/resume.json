@@ -1,0 +1,118 @@
+{
+  "name": "Chaithanya Ch",
+  "title": "Full Stack Developer",
+  "tagline": "Building scalable web applications with modern technologies",
+  "email": "chaithanyach@example.com",
+  "phone": "+91 98765 43210",
+  "location": "Hyderabad, India",
+  "linkedin": "https://linkedin.com/in/chaithanyach",
+  "github": "https://github.com/chaithanyach",
+  "summary": "Passionate Full Stack Developer with 3+ years of experience building modern web applications. Proficient in React, Node.js, and cloud technologies. Adept at transforming complex problems into elegant solutions with clean, maintainable code.",
+  "skills": {
+    "frontend": ["React", "JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3", "Redux", "Vite", "Next.js"],
+    "backend": ["Node.js", "Express.js", "REST APIs", "GraphQL", "Python", "Django"],
+    "database": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+    "devops": ["AWS EC2", "AWS S3", "Docker", "Nginx", "CI/CD", "GitHub Actions"],
+    "tools": ["Git", "VS Code", "Postman", "Figma", "Jira", "Linux"]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "role": "Full Stack Developer",
+      "company": "Tech Solutions Pvt. Ltd.",
+      "location": "Hyderabad, India",
+      "duration": "Jan 2023 – Present",
+      "type": "Full-time",
+      "responsibilities": [
+        "Developed and maintained 5+ React-based web applications serving 10,000+ users",
+        "Built RESTful APIs with Node.js and Express, improving response time by 40%",
+        "Deployed applications on AWS EC2 with Nginx reverse proxy and SSL configuration",
+        "Implemented CI/CD pipelines using GitHub Actions reducing deployment time by 60%",
+        "Collaborated with cross-functional teams using Agile/Scrum methodology"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Frontend Developer Intern",
+      "company": "Digital Agency Co.",
+      "location": "Bangalore, India",
+      "duration": "Jun 2022 – Dec 2022",
+      "type": "Internship",
+      "responsibilities": [
+        "Built responsive UI components with React and integrated REST APIs",
+        "Improved website performance by 35% through lazy loading and code splitting",
+        "Worked closely with designers to convert Figma designs into pixel-perfect UIs",
+        "Wrote unit tests using Jest and React Testing Library achieving 85% coverage"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "Jawaharlal Nehru Technological University",
+      "location": "Hyderabad, India",
+      "duration": "2018 – 2022",
+      "grade": "8.2 CGPA",
+      "highlights": ["Data Structures & Algorithms", "Web Development", "Database Management", "Cloud Computing"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with real-time inventory management, payment gateway integration, and an admin dashboard.",
+      "tech": ["React", "Node.js", "MongoDB", "Stripe API", "Redis", "AWS S3"],
+      "highlights": ["Handles 500+ concurrent users", "Integrated Stripe payment gateway", "Real-time stock updates via WebSockets"],
+      "github": "https://github.com/chaithanyach/ecommerce-platform",
+      "live": "https://shop.chaithanya.dev"
+    },
+    {
+      "id": 2,
+      "name": "Task Management App",
+      "description": "A collaborative project management tool with Kanban boards, drag-and-drop, team assignments, and deadline tracking.",
+      "tech": ["React", "Express", "PostgreSQL", "Socket.io", "Docker"],
+      "highlights": ["Real-time collaboration with Socket.io", "Dockerized deployment", "Drag-and-drop Kanban board"],
+      "github": "https://github.com/chaithanyach/task-manager",
+      "live": "https://tasks.chaithanya.dev"
+    },
+    {
+      "id": 3,
+      "name": "Resume Portfolio API",
+      "description": "This very project — a dynamic resume portfolio with a React frontend consuming a Node.js REST API backend.",
+      "tech": ["React", "Vite", "Node.js", "Express", "AWS EC2", "Render"],
+      "highlights": ["Fully dynamic data via REST API", "Responsive glass-morphism design", "Deployed on AWS EC2 + Render"],
+      "github": "https://github.com/chaithanyach/resume-portfolio",
+      "live": "https://chaithanya.onrender.com"
+    }
+  ],
+  "certifications": [
+    {
+      "id": 1,
+      "name": "AWS Certified Developer – Associate",
+      "issuer": "Amazon Web Services",
+      "year": "2023",
+      "badge": "https://aws.amazon.com/certification/certified-developer-associate/"
+    },
+    {
+      "id": 2,
+      "name": "MongoDB Developer Certification",
+      "issuer": "MongoDB University",
+      "year": "2022",
+      "badge": "https://university.mongodb.com/"
+    },
+    {
+      "id": 3,
+      "name": "React - The Complete Guide",
+      "issuer": "Udemy",
+      "year": "2022",
+      "badge": "https://udemy.com"
+    }
+  ],
+  "achievements": [
+    "🏆 Winner – Smart India Hackathon 2021 (National Level)",
+    "⭐ Top 5% Developer on HackerRank",
+    "🎓 Academic Excellence Award – JNTU 2022",
+    "💡 Published 3 technical articles on Medium with 5000+ reads"
+  ]
+}
